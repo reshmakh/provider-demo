@@ -1,4 +1,4 @@
-# Medplum Hello World
+# Provider Demo
 
 This example app demonstrates the following:
 
